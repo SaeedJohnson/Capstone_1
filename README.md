@@ -1,7 +1,7 @@
 # Capstone 1: Business Analysis with SQL and Excel
 
 **Author:** Saeed Johnson
-**Program:** Year Up United Data Analytics Training Academy, Week 4 Capstone
+**Program:** Year Up United Data Analytics Capstone 1
 **Territory analyzed:** Texas (in-store), South Region
 
 ## Project Description
